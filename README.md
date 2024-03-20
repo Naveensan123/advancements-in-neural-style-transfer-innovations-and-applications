@@ -1,4 +1,4 @@
-![Screenshot 2024-03-20 102104](https://github.com/Naveensan123/advancements-in-neural-style-transfer-innovations-and-applications/assets/95761973/4dee1373-8cc6-4b78-9193-abb13d3240d9)# advancements-in-neural-style-transfer-innovations-and-applications
+# advancements-in-neural-style-transfer-innovations-and-applications
 
 # About
 The project "Advancements in Neural Style Transfer: Innovations and Applications" explores cutting-edge developments in Neural Style Transfer (NST), a technique that enables the transfer of artistic styles from reference images onto target content. By leveraging state-of-the-art deep learning architectures and optimization techniques, the project aims to push the boundaries of artistic stylization, empowering users to effortlessly apply a wide range of artistic styles to their content. Through practical demonstrations, ethical considerations, and real-world applications, the project showcases the transformative potential of NST in reshaping the landscape of computational creativity and visual synthesis.
@@ -21,7 +21,7 @@ Optional: GPU-enabled hardware for accelerated model training and inference.
 ![Screenshot 2024-03-19 190638](https://github.com/Naveensan123/advancements-in-neural-style-transfer-innovations-and-applications/assets/95761973/5dcff775-81c1-460f-858f-271694ac2a46)
 
 # Output 1
-![Uploading Screenshot 2024-03-20 102104.png
+![Screenshot 2024-03-20 102104](https://github.com/Naveensan123/advancements-in-neural-style-transfer-innovations-and-applications/assets/95761973/4dee1373-8cc6-4b78-9193-abb13d3240d9)
 
 # Output 2 
 ![Screenshot 2024-03-20 102109](https://github.com/Naveensan123/advancements-in-neural-style-transfer-innovations-and-applications/assets/95761973/3f7d95f2-4a16-4405-a5dd-24f6f4f5e4b2)
